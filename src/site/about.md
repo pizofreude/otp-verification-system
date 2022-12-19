@@ -4,13 +4,15 @@ layout: layouts/base.njk
 subtitle: Clone and deploy your own EleventyOne starter template.
 ---
 
+<link rel="icon" href="./images/otp_icon_213651.ico"/>
+
 ## Hosting
 
 This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
 
 <div class="nakedLink">
 
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
+Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/567a9118-3d10-4fe1-8785-d86784649386/deploy-status)](https://app.netlify.com/sites/otp-verification-system/deploys)
 
 </div>
 

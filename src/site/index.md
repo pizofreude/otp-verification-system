@@ -4,6 +4,8 @@ subtitle: An open-source Pyton project for building a quick OTP verification sys
 layout: layouts/base.njk
 ---
 
+<link rel="icon" href="./images/otp_icon_213651.ico"/>
+
 
 ## List of Contributors
 
