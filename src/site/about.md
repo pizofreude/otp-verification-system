@@ -4,7 +4,7 @@ layout: layouts/base.njk
 subtitle: Clone and deploy your own EleventyOne starter template.
 ---
 
-<link rel="icon" href="./images/otp_icon_213651.ico"/>
+<div link rel="icon" href="./images/otp_icon_213651.ico"> </div>
 
 ## Hosting
 
