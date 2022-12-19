@@ -9,7 +9,7 @@ layout: layouts/base.njk
 
 <div align="center">
     <a href="https://pizofreude.github.io/">
-        <img src="docs/assets/logo-full.svg" alt="✨ All Contributors ✨" width="800px" />
+        <img src="src/site/images/logo-full.svg" alt="✨ All Contributors ✨" width="800px" />
     </a>
 </div>
 
@@ -30,7 +30,7 @@ People are giving themselves and their free time to contribute to open source pr
 
 Below is an example of how using the all-contributors spec table can recognize all contributors
 <div align="center">
-    <img src="docs/assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
+    <img src="src/site/images/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
 </div>
 
 > You can use [the @all-contributors bot 🤖](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your open source projects
