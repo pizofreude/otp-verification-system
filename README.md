@@ -10,7 +10,7 @@
 
 [![Build Status](https://img.shields.io/circleci/build/gh/pizofreude/otp-verification-system/master.svg)](https://app.circleci.com/pipelines/github/pizofreude/otp-verification-system?branch=main)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5b809ebb-17c9-4f72-8971-35d9b2b5cc8f/deploy-status)](https://app.netlify.com/sites/otp-verification-system/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/567a9118-3d10-4fe1-8785-d86784649386/deploy-status)](https://app.netlify.com/sites/otp-verification-system/deploys)
 [![Star on GitHub](https://img.shields.io/github/stars/pizofreude/otp-verification-system.svg?style=social)](https://github.com/pizofreude/otp-verification-system/stargazers)
 
 This is a specification for recognizing contributors to an open-source project in a way that rewards every contribution, not just code.
