@@ -1,0 +1,12 @@
+# Redirect alternative domains to primary domain
+http://otp-verification-system.netlify.app/* https://otp-verification-system.netlify.app/ 301!
+https://otp-verification-system.netlify.app/* https://otp-verification-system.netlify.app/ 301!
+
+http://otpverificationsystem.com/* https://otp-verification-system.netlify.app/ 301!
+https://otpverificationsystem/* https://otp-verification-system.netlify.app/ 301!
+
+http://otp-verification-system.com/* https://otp-verification-system.netlify.app/ 301!
+https://otp-verification-system.com/* https://otp-verification-system.netlify.app/ 301!
+
+# Custom 404 page
+/*    /404.html  404
