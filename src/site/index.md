@@ -12,7 +12,8 @@ layout: layouts/base.njk
     </a>
 </div>
 
-[![Build Status](https://img.shields.io/circleci/build/gh/pizofreude/otp-verification-system/master.svg)](https://app.circleci.com/pipelines/github/pizofreude/otp-verification-system?branch=main)
+<!-- [![Build Status](https://img.shields.io/circleci/build/gh/pizofreude/otp-verification-system/master.svg)](https://app.circleci.com/pipelines/github/pizofreude/otp-verification-system?branch=main) -->
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/pizofreude/otp-verification-system/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/pizofreude/otp-verification-system/tree/main)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/567a9118-3d10-4fe1-8785-d86784649386/deploy-status)](https://app.netlify.com/sites/otp-verification-system/deploys)
 [![Star on GitHub](https://img.shields.io/github/stars/pizofreude/otp-verification-system.svg?style=social)](https://github.com/pizofreude/otp-verification-system/stargazers)
