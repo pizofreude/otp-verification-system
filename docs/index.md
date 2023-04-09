@@ -1,7 +1,7 @@
 ---
-id: overview
-title: Overview
-sidebar_label: Overview
+id: index
+title: Home
+sidebar_label: Home
 ---
 
 > Call for translators! [We're looking for translators](https://github.com/pizofreude/otp-verification-system/issues/7) to help translate this spec for everyone!

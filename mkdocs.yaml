@@ -1,0 +1,5 @@
+site_name: Otp Verification System
+nav:
+    - Home: index.md
+    - Docs: main.md
+theme: mkdocs
